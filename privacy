@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Radix Calculator — Privacy Policy</title>
+  <style>
+    :root { color-scheme: light dark; }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      background: #0b0b10;
+      color: #f4f4f8;
+      display: flex;
+      flex-direction: column;
+      min-height: 100vh;
+    }
+    .wrap { max-width: 720px; margin: 0 auto; padding: 48px 24px; flex: 1; }
+    header { text-align: center; margin-bottom: 32px; }
+    .logo {
+      width: 72px; height: 72px; border-radius: 18px;
+      background: linear-gradient(135deg, #6C5CE7, #8B7BF7);
+      display: inline-flex; align-items: center; justify-content: center;
+      font-size: 36px; font-weight: 800; color: #fff; margin-bottom: 14px;
+    }
+    h1 { font-size: 28px; margin: 0; }
+    .updated { color: #8f8fa8; margin-top: 6px; font-size: 14px; }
+    h2 { font-size: 19px; margin-top: 32px; }
+    a { color: #8B7BF7; }
+    ul { padding-left: 20px; }
+    .card { background: #17171f; border-radius: 16px; padding: 18px 22px; margin-top: 14px; }
+    footer { text-align: center; color: #8f8fa8; font-size: 13px; padding: 24px; }
+    .back { display: inline-block; margin-top: 28px; }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="logo">R</div>
+      <h1>Privacy Policy</h1>
+      <div class="updated">Radix Calculator · Last updated: June 7, 2026</div>
+    </header>
+
+    <p>This Privacy Policy explains how the Radix Calculator app ("Radix", "we",
+    "us") handles information when you use the app. By using Radix you agree to
+    the practices described below.</p>
+
+    <h2>Information we collect</h2>
+    <div class="card">
+      <p>Radix does <strong>not</strong> require an account and does not ask you
+      for personal information such as your name, email, or phone number.</p>
+      <p>Your calculations and calculation history are stored <strong>only on
+      your device</strong> and are never transmitted to us.</p>
+    </div>
+
+    <h2>Advertising</h2>
+    <div class="card">
+      <p>Radix displays advertisements through <strong>Google AdMob</strong>. To
+      serve ads, Google and its partners may collect and process certain data,
+      including a device advertising identifier (IDFA), approximate location
+      derived from IP address, device type, and ad interaction data. This may be
+      used to deliver and measure personalized or non-personalized ads.</p>
+      <p>On first launch the app asks for your permission to track (App Tracking
+      Transparency). If you decline, you will still see ads, but they will be
+      non-personalized.</p>
+      <p>Learn how Google uses data:
+      <a href="https://policies.google.com/technologies/partner-sites">policies.google.com/technologies/partner-sites</a>.
+      You can manage ad personalization in your device <em>Settings → Privacy &amp;
+      Security → Tracking</em> and <em>Apple Advertising</em>.</p>
+    </div>
+
+    <h2>Data sharing</h2>
+    <div class="card">
+      <p>We do not sell your personal information. Data collected for advertising
+      is processed by Google AdMob in accordance with its own privacy policy:
+      <a href="https://policies.google.com/privacy">policies.google.com/privacy</a>.</p>
+    </div>
+
+    <h2>Children's privacy</h2>
+    <div class="card">
+      <p>Radix is not directed at children under 13 and we do not knowingly
+      collect personal information from them.</p>
+    </div>
+
+    <h2>Your choices</h2>
+    <ul>
+      <li>Decline tracking via the App Tracking Transparency prompt or in iOS Settings.</li>
+      <li>Reset your advertising identifier in iOS Settings at any time.</li>
+      <li>Delete the app to remove all locally stored data, including history.</li>
+    </ul>
+
+    <h2>Changes to this policy</h2>
+    <div class="card">
+      <p>We may update this Privacy Policy from time to time. Changes will be
+      posted on this page with an updated date.</p>
+    </div>
+
+    <h2>Contact</h2>
+    <div class="card">
+      <p>Questions about this policy? Email
+      <a href="mailto:ahedkrakra1@gmail.com">ahedkrakra1@gmail.com</a>.</p>
+    </div>
+
+    <a class="back" href="/">← Back to Radix support</a>
+  </div>
+
+  <footer>© 2026 Radix Calculator. All rights reserved.</footer>
+</body>
+</html>
